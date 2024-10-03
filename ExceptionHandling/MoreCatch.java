@@ -1,4 +1,4 @@
-public class Main{
+public class MoreCatch{
     public static void main(String[] args){
         try{
             int a[]=new int[5];
